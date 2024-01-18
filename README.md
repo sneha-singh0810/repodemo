@@ -1,2 +1,2 @@
 # repodemo
-description repo demo
+description repo demo author sneha singh
